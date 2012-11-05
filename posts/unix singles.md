@@ -1,3 +1,9 @@
+---
+title: Unix 信号解析
+category: Linux
+status: published
+---
+
 ##SIGCHLD## 
 当进程终止时由内核发送给终止进程的父进程。父进程处理该信号，用 waitpid 防止僵尸进程的产生。
 
