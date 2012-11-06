@@ -11,6 +11,6 @@ status: published
 
 ## 特别感谢
 
-### [Touchpad-indicator 项目] (https://launchpad.net/touchpad-indicator) 
+### [Touchpad-indicator 项目](https://launchpad.net/touchpad-indicator) 
 
 参考 Touchpad-indicator 实现识别连接到系统的鼠标。
