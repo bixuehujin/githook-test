@@ -1,7 +1,7 @@
 ---
 category: PHP
 status: published
-tags: PHP, PHP内核, PHP生命周期, Zend引擎
+tags: PHP, PHP内核, PHP生命周期
 title: 第一节 生命周期和Zend引擎
 ---
 
