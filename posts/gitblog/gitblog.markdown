@@ -1,5 +1,6 @@
 ---
 category: PHP
+visibility: self
 status: published
 tags: git, markdown, 毕业设计
 title: 基于git和markdown的内容管理平台的设计与开发
