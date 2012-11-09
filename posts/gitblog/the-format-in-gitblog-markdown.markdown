@@ -15,7 +15,7 @@ GitBlog 中使用的 markdown 文件由两部分组成，包括Meta信息头和�
 
 ### Meta 信息头
 
-Meta信息头出现在每个markdown文件的开头，由两行`---`分隔。
+Meta信息头出现在每个markdown文件的开头，由两行---分隔。
 
 * title 		指定文章标题，此项必填
 * category 		文章所属分类，默认不指定分类
